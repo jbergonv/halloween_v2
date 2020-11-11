@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">halloween</string>
+    <string name="numeroSonidos">Nº Sonidos</string>
+    <string name="susto">Asústame</string>
+    <string name="ataud">Ataúd</string>
+    <string name="animales">Animales</string>
+    <string name="cadenas">Cadenas</string>
+    <string name="campana">Campana</string>
+    <string name="cristal">Cristal</string>
+    <string name="crujido">Crujido</string>
+    <string name="gato">Gato</string>
+    <string name="murcielagos">Murciélagos</string>
+    <string name="perro">Perro</string>
+    <string name="puerta">Puerta</string>
+</resources>
