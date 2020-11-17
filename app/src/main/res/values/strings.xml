@@ -12,4 +12,9 @@
     <string name="murcielagos">Murciélagos</string>
     <string name="perro">Perro</string>
     <string name="puerta">Puerta</string>
+    <string name="errorSonidos">Introduce un número de sonidos (Máx 10)</string>
+    <string name="maximoSonidos">El número máximo de sonidos es 10</string>
+    <string name="reproducir">Play</string>
+    <string name="cuentaAtrás">Introduce un tiempo de cuenta atrás</string>
+    <string name="reproducirTodo">Play todo</string>
 </resources>

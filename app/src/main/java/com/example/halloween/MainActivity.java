@@ -3,6 +3,7 @@ package com.example.halloween;
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.res.Configuration;
 import android.graphics.Color;
 import android.media.MediaPlayer;
 import android.os.AsyncTask;
@@ -26,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
     int[] sonidosHalloween = {R.raw.animales,R.raw.ataud,R.raw.cadenas,R.raw.campana,R.raw.cristal,R.raw.crujido,R.raw.gato,R.raw.murcielagos,R.raw.perro,R.raw.puerta};
 
-    /*{"animales","ataud","cadenas","campana","cristal","crujido","gato","murcielagos","perro","puerta"};*/
+    //VERSIÓN FINAL
 
 
 
